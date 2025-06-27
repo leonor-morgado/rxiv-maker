@@ -17,6 +17,7 @@ And reference them using @eq:einstein.
 ## Methods
 
 Describe your methodology here. Include code blocks when relevant:
+chaos to clarity
 
 ```python
 # Example code
